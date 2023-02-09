@@ -1,0 +1,11 @@
+D:\Visual Studio\NotePad\NotePad\bin\Debug\NotePad.exe.config
+D:\Visual Studio\NotePad\NotePad\bin\Debug\NotePad.exe
+D:\Visual Studio\NotePad\NotePad\bin\Debug\NotePad.pdb
+D:\Visual Studio\NotePad\NotePad\obj\Debug\NotePad.csproj.AssemblyReference.cache
+D:\Visual Studio\NotePad\NotePad\obj\Debug\NotePad.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+D:\Visual Studio\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+D:\Visual Studio\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NotePad\NotePad\obj\Debug\NotePad.exe
+D:\Visual Studio\NotePad\NotePad\obj\Debug\NotePad.pdb
+D:\Visual Studio\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
